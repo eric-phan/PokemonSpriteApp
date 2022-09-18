@@ -15,7 +15,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: darkslategray;
   background-color: lightblue;
- 
+
   letter-spacing: 1.2px;
   height: 700px;
 }
@@ -49,6 +49,12 @@ button {
   display: inline-block;
   font-size: 0.8rem;
 }
+#lucky {
+  margin-top: 1rem;
+  width: 10.3rem;
+  padding: 8px 32px;
+  background-color: cadetblue;
+}
 img {
   display: block;
   margin: 0 auto;
@@ -70,6 +76,9 @@ body > h1:nth-child(1) {
 h2,
 h3 {
   font-size: 1.5rem;
+}
+h3 {
+  height: 200px;
 }
 /******************************************
 /* ADDITIONAL STYLES
