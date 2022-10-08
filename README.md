@@ -1,13 +1,11 @@
 
 ![Logo](https://archives.bulbagarden.net/media/upload/4/44/Pok%C3%A9mon_Gallery_Encounter_with_Shining.png)
 
-# Pokemon Sprite App
-
 ## A fan-built pokemon web app to view your favorite pokemon's shiny versions.
 
-<div align="center"><img src="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcNPLXTlhdlEFQrrTj7aKzuKHRPOxeGeYX-FTEfsXLz48aguYLZccaznfl24VSqy8uFnK8rD3BQLdM_1nRoagLQKmbP0.jpg?r=178" alt="Yo-kai Watch!" align="center"></div>
+<div align="center"><img src="[https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABcNPLXTlhdlEFQrrTj7aKzuKHRPOxeGeYX-FTEfsXLz48aguYLZccaznfl24VSqy8uFnK8rD3BQLdM_1nRoagLQKmbP0.jpg?r=178](https://archives.bulbagarden.net/media/upload/4/44/Pok%C3%A9mon_Gallery_Encounter_with_Shining.png)" alt="Yo-kai Watch!" align="center"></div>
 
-<h1 align="center">Yo-kai Watch Info</h1>
+<h1 align="center">Pokemon Sprite App</h1>
 <h2 align="center">A fan-built webapp showing information about your favorite yo-kai.</h3>
 
 
