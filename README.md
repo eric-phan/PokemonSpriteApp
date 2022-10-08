@@ -27,4 +27,4 @@
 
 ### :slightly_smiling_face: Thank you!
 
-Please check out the rest of my [Github](https://github.com/Ultracire), this code repo's link will be [here](https://github.com/Ultracire/PokemonSpriteApp).
+Please check out the rest of my [Github](https://github.com/Ultracire), the code repo for this project link will be [here](https://github.com/Ultracire/PokemonSpriteApp).
