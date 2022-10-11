@@ -8,7 +8,7 @@
 ### :construction: This webapp is actively under construction! ###
 #### Some Notes:
 - This webapp was made using PokeAPI: https://pokeapi.co/ 
-- The webapp supports 900+ pokemon, which are featured in the main series games.
+- The webapp supports the 900+ pokemon featured in the main series games.
 
 
 #### Tech Stuff:
